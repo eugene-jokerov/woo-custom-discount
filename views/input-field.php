@@ -1,0 +1,1 @@
+<input type="text" name="wcd_settings[<?php echo esc_attr( $key ); ?>]" value="<?php echo esc_attr( $val ) ?>" />
